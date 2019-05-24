@@ -74,7 +74,7 @@ namespace List_TDD_Practice.Tests
 
             // Use one of List's methods to delete the item at index 2.
 
-            Assert.Equal(new List<int> { 1, 2, 3 }, list);
+            Assert.Equal(new List<int> { 1, 2, 4 }, list);
         }
 
         [Fact]
